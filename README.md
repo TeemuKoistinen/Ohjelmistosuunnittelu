@@ -6,3 +6,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla mi in 
 ###Alaotsikko2
 
 [JAMK:in websivu](http://www.jamk.fi)
+
+![](http://www.guitar-list.com/sites/default/files/styles/model_display/public/gearpics/ibanez-RG470-1995.jpg?itok=Shtw0STk)
