@@ -13,6 +13,6 @@ Malli | Julkaisuvuosi
 ---|---
 RG470 | [1993] (https://fi.wikipedia.org/wiki/1993)
 JEM777 | 1989
-rs1400 | 1983
+rs1400 | 1982
 
 [guides.github.com] (http://guides.github.com)
