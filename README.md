@@ -11,6 +11,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla mi in 
 
 Malli | Julkaisuvuosi
 ---|---
-RG470 | [1993] (https://www.google.fi/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi0y7iq-9DRAhUK1ywKHXoGCMwQFggkMAA&url=https%3A%2F%2Ffi.wikipedia.org%2Fwiki%2F1993&usg=AFQjCNFJpI5l3b9Cit-ilDfIYKz1vCMkfQ&bvm=bv.144224172,d.bGg)
+RG470 | [1993] (https://fi.wikipedia.org/wiki/1993)
 JEM777 | 1989
 rs1400 | 1983
